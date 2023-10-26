@@ -1,2 +1,2 @@
 # contactcenter
-Contact Centert Solution for Telemarketing.
+Contact Center App.
